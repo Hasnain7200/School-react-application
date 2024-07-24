@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/School-react-application/static/css/main.1d80af74.css",
+    "main.js": "/School-react-application/static/js/main.07f44be1.js",
+    "static/media/Faculty1.png": "/School-react-application/static/media/Faculty1.ce941f4f4e74aa9589f5.png",
+    "static/media/Faculty2.jpg": "/School-react-application/static/media/Faculty2.fd97d0594655d034a0fb.jpg",
+    "static/media/sports-day.jpg": "/School-react-application/static/media/sports-day.d26d3135ae4278f967ae.jpg",
+    "static/media/Faculty5.png": "/School-react-application/static/media/Faculty5.ec410dc712b526a5ae42.png",
+    "static/media/Faculty3.png": "/School-react-application/static/media/Faculty3.1f812daf99c23398535f.png",
+    "static/media/Library.jpeg": "/School-react-application/static/media/Library.85002c7719ae292a335e.jpeg",
+    "static/media/Science-Exebition.jpeg": "/School-react-application/static/media/Science-Exebition.3496393e5e048e0367c9.jpeg",
+    "static/media/Classroom.jpeg": "/School-react-application/static/media/Classroom.9526dd785ea826eaf401.jpeg",
+    "static/media/Cultural-fest.jpeg": "/School-react-application/static/media/Cultural-fest.e0c6a11acc7ead80aaaa.jpeg",
+    "static/media/Facult4.jpeg": "/School-react-application/static/media/Facult4.663f27284fcfa889ebd3.jpeg",
+    "static/media/logo.jpg": "/School-react-application/static/media/logo.e52767b8caf13cbcbd50.jpg",
+    "index.html": "/School-react-application/index.html",
+    "main.1d80af74.css.map": "/School-react-application/static/css/main.1d80af74.css.map",
+    "main.07f44be1.js.map": "/School-react-application/static/js/main.07f44be1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d80af74.css",
+    "static/js/main.07f44be1.js"
+  ]
+}
